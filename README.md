@@ -1,5 +1,6 @@
 ## Salveee eu sou o Felipe Quental!
 <div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FQuental)](https://github.com/anuraghazra/github-readme-stats)
   <a href="https://github.com/FQuental">
 </div>
 <div style="display: inline_block"><br>
