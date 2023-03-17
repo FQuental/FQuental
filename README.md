@@ -27,9 +27,6 @@ Este é o meu Git, onde atualizo projetos que uso para estudar e também ativida
   ![Snake animation](https://github.com/FQuental/FQuental/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-teste
-
 <!--
 teste 2
 -->
