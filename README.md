@@ -1,4 +1,5 @@
-## Salveee eu sou o Felipe Quental!
+## Olá eu sou o Felipe Quental!
+Este é o meu Git, onde atualizo projetos que uso para estudar e também atividades que faço como desafios.
 <div align="center">
   <a href="https://github.com/FQuental">
 </div>
