@@ -4,7 +4,8 @@ Este é o meu Git, onde atualizo projetos que uso para estudar e também ativida
   <a href="https://github.com/FQuental">
 </div>
   
- <div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FQuental&layout=compact&theme=dark)](https://github.com/FQuental/FQuental/blob/main/README.md)
+  <div align="center"> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FQuental&layout=compact&theme=dark)](https://github.com/FQuental/FQuental/blob/main/README.md)
   </div>
   
 <div style="display: inline_block"><br>
