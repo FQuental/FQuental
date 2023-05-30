@@ -6,7 +6,7 @@ Este é o meu Git, onde atualizo projetos que uso para estudar e também ativida
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FQuental&layout=compact&theme=dark)](https://github.com/FQuental/FQuental/blob/main/README.md)
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="c_icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="c++_icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="java_icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
