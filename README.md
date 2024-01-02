@@ -28,6 +28,3 @@ Este é o meu Git, onde atualizo projetos que uso para estudar e também ativida
   <a href="https://www.linkedin.com/in/felipe-quental-058a17205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<!--
-teste 2
--->
